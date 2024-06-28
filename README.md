@@ -1,5 +1,6 @@
 # Data Import Handler for Apache Solr 9.6.x
 An Apache Solr™ package for importing records from database systems into Apache Solr collections.
+
 The following fork adds support for the Data Import Handler package in Solr 9.6.x
 
 ## About
